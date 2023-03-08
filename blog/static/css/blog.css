@@ -8,6 +8,7 @@ body {
     background-color: #C25100;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
+    border-radius: 10px;
 
 }
 
@@ -15,6 +16,7 @@ body {
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
+    border-radius: 10px;
 }
 
 .content {
@@ -51,15 +53,19 @@ h1, h2, h3, h4 {
     margin-bottom: 70px;
     background-color: #ffffff;
     padding: 20px;
+    border-radius: 10px;
 
 }
 
 .post h2 a, .post h2 a:visited {
     color: #000000;
+
 }
 
 .col-md-8{
     width: 80vw;
-    background-color: bisque;
     padding: 20px 20px 20px 40px;
+    background-color: #C25f00aa;
+    border-radius: 10px;
+
 }
